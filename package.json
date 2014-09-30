@@ -1,6 +1,6 @@
 {
   "name": "hubot-twada",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that returns a t_wada.png",
   "main": "index.js",
   "scripts": {
