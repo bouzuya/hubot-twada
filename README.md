@@ -2,6 +2,8 @@
 
 A Hubot script that returns a t_wada.png
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141001/20141001003829.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-twada.git
